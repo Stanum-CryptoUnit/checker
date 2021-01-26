@@ -1,4 +1,5 @@
-
+checker.abi
+checker.wasm
 node_modules
 build
 .eosproj
